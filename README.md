@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+###
 ###
 
 <div align="left">
@@ -33,11 +39,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-###
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
 ###
 <p align="left">
 <a href="https://instagram.com/darky__here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darky__here" height="30" width="40" /></a>
