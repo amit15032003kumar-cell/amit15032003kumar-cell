@@ -144,7 +144,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=amit15032003kumar-cell&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amit15032003kumar-cell&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://i.imgflip.com/65efzo.gif" alt="About Me GIF" width="180px">
+
 <br/>
 
 ## 🏆 GitHub Trophies
