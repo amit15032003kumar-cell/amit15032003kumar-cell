@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-/amit15032003kumar-cell..svg)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
 
 <p align="left">
 <a href="https://instagram.com/darky__here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darky__here" height="30" width="40" /></a>
