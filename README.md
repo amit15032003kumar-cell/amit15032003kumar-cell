@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ItzMeAman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amit15032003kumar-cell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
 ```text
