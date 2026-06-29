@@ -97,7 +97,7 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/amit15032003kumar-cell/Wall-E-Desk/Wall-E-Desk">
+<a href=https://github.com/amit15032003kumar-cell/nimbus-weather>
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
 <a href="https://github.com/JoshuaThadi/Void-OSE">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
@@ -114,7 +114,7 @@
 
 
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Aman </h3>
 <div align="center">
 
 <!-- Languages -->
